@@ -19,7 +19,7 @@ A simple ray tracer implemented in Rust, based on the "Ray Tracing in One Weeken
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <git@github.com:kayareyouokay/Raytracer.git>
    cd rust_raytracer
    ```
 
