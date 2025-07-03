@@ -21,6 +21,7 @@ A simple ray tracer implemented in Rust, based on the "Ray Tracing in One Weeken
    ```bash
    git clone git@github.com:kayareyouokay/Raytracer.git
    cd Raytracer
+   cd rust_raytracer
    ```
 
 2. Build the project:
